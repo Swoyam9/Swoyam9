@@ -85,7 +85,7 @@ const swoyam = {
 <a href="https://www.linkedin.com/in/swoyam-pradhan-b288542a4/"><img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b1220" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/swo_46_/"><img src="https://img.shields.io/badge/Instagram-7dd3fc?style=for-the-badge&logo=instagram&logoColor=0b1220" alt="Instagram" /></a>
 <a href="mailto:pradhanswoyam2003@gmail.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1220" alt="Email" /></a>
-<a href="https://www.swoyampradhan.com.np"><img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=0b1220" alt="Portfolio" /></a>
+<a href="https://swoyampradhan.com.np"><img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=0b1220" alt="Portfolio" /></a>
 
 <br/><br/>
 
